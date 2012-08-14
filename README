@@ -1,0 +1,28 @@
+Facebook BranchOut Clone Challenge
+
+This project was originally a coding challenge to use the Facebook API to clone an old Facebook App created by BranchOut.  The original app is no longer live on Facebook.
+
+Below is the word for word description of the challenge:
+
+--------------------------
+
+The basic flow is :
+1. Integrate with Facebook Android connect: https://github.com/facebook/facebook-android-sdk
+2. Pull a list of friends from the Facebook API
+3. Display a UI, an example given below, that randomly selects two friends, lets the user select “Who’s more fun”, and then shows the next two friends. After 10 selections, it will display a rank of the results
+4. After they select 10 friends, they will be able to view a ranking as shown below
+
+Please note the screenshots (2 located in instructions.png) are an example only. You are free to design your own screens,
+layouts and interactions. 
+
+-----------------------
+
+I decided to share this project via GitHub to showcase my coding style to possible employers as well as help other Android developers learn the basics of the Facebook Graph API and how to use Google's ImageDownloader code.
+
+Be sure to add the Facebook SDK Library to the project after you import it as well as change the Facebook App ID to your own located at the top of MainActivity.java
+
+Any questions / comments please don't hesitate to ask!
+
+Thanks,
+Stephen A. Milone
+android@stephenmilone.com

@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Code Challenge 1</string>
+    <string name="results_title">Results</string>
+    <string name="morefun">Who is more fun?</string>
+    <string name="or">OR</string>
+    <string name="profile1">Profile 1</string>
+    <string name="profile2">Profile 2</string>
+</resources>
